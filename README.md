@@ -1,7 +1,7 @@
 # Data Analyst Portfolio Project Repository
 
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
+For Covid 19 Analysis Dashboard in Tableau please visit https://public.tableau.com/app/profile/samuel.ireke.ukiwo/viz/Covid19AnalysisDashboard_16360472215180/Dashboard1?publish=yes
 
-Please feel free to take these and run with them. Make them your own and find you own insights
 
-I really do hope this is helpful and helps you land that dream job! :D
+
+
